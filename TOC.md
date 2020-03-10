@@ -8,3 +8,4 @@
 ## chapter 2 : collaborative work
 ### git commit
 ### git fetch
+### je suis fatiguée
