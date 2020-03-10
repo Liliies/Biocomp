@@ -1,2 +1,7 @@
 # Biocomp
-test
+
+> Liliies
+
+## Initiation à git
+
+Apprentissage 
